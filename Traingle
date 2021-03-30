@@ -1,0 +1,9 @@
+class Triangle
+{
+public static void main(String args[])
+{
+int a=2,b=3,c=5,per;
+per=a+b+c;
+System.out.println("perimeter of triangle is",+per);
+}
+}
