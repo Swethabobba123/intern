@@ -1,0 +1,11 @@
+class Rectangle
+{
+public static void main(String args[])
+{
+int len=5,breadth=7,area,perim;
+area=len*breadth;
+perim=2*(len+breadth)
+System.out.println("area of rectangle is",+area);
+System.out.println("perimater of rectangle is",+perimeter);
+}
+}
